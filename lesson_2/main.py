@@ -35,4 +35,4 @@
 #     m = "0" + str(m)
 # if s < 10:
 #     s = "0" + str(s)
-# print(f"{h}:{m}:{s}")
+# print(f"{h}:{m}:{s}"
