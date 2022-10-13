@@ -21,18 +21,18 @@
 # # .replace() - замена первого элемента на второй
 # x = input()
 # prin
-alphabet = {
-    "а": "a",
-    "б": "b",
-    "в": "v",
-    "г": "g",
-    "д": "d",
-    "е": "е",
-    "ё": "yo",
-    "ж": "zh",
-}
-phrase = input("Введи фразу: ")
-translate = ""
-for bukva in phrase:
-    translate = translate + alphabet[bukva]
-print(translate)
+# alphabet = {
+#     "а": "a",
+#     "б": "b",
+#     "в": "v",
+#     "г": "g",
+#     "д": "d",
+#     "е": "е",
+#     "ё": "yo",
+#     "ж": "zh",
+# }
+# phrase = input("Введи фразу: ")
+# translate = ""
+# for bukva in phrase:
+#     translate = translate + alphabet[bukva]
+# print(translate)
